@@ -2,7 +2,7 @@
     {
         "id": "59cd3f2e78d6f00018af8acc",
         "asin": "B073JY5T7T",
-        "description": "Tarjeta de memoria SanDisk Ultra Android microSDXC UHS-I de 200 GB con adaptador SD, velocidad de lectura hasta 100 MB/s, Clase 10, U1 y A1",
+        "name": "Tarjeta de memoria SanDisk Ultra Android microSDXC UHS-I de 200 GB con adaptador SD, velocidad de lectura hasta 100 MB/s, Clase 10, U1 y A1",
         "url": "https://www.amazon.es/dp/B073JY5T7T/ref=cm_sw_r_cp_apa_I8tZzbJWTE1D5?tag=crecienconoli-21",
         "imageName": "https://images-eu.ssl-images-amazon.com/images/I/51HHUmRprPL.jpg",
         "price": 3809.0000000000005,
@@ -18,7 +18,7 @@
     {
         "id": "59a573d6ee06db15b11b0c87",
         "asin": "B01LXLFF6H",
-        "description": "HP 302 - Paquete de ahorro de 2 cartuchos de tinta original negro/tricolor, color negro",
+        "name": "HP 302 - Paquete de ahorro de 2 cartuchos de tinta original negro/tricolor, color negro",
         "url": "https://www.amazon.es/HP-302-cartuchos-tinta-tri-color/dp/B01LXLFF6H?tag=crecienconoli-21",
         "imageName": "https://images-eu.ssl-images-amazon.com/images/I/51t5YfFY2jL.jpg",
         "price": 3588.0000000000005,
@@ -34,7 +34,7 @@
     {
         "id": "594130998f4aef9e3398bbea",
         "asin": "B01N5OPMJW",
-        "description": "Nintendo Switch - Consola color Azul Neón/Rojo Neón",
+        "name": "Nintendo Switch - Consola color Azul Neón/Rojo Neón",
         "url": "https://www.amazon.es/Nintendo-Switch-Consola-color-Azul/dp/B01N5OPMJW?psc=1&SubscriptionId=AKIAJ6KLLKSCXUUP4BCQ&tag=reposterianos-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01N5OPMJW",
         "imageName": "https://images-eu.ssl-images-amazon.com/images/I/51lJfhTUklL.jpg",
         "price": 36076,
@@ -50,7 +50,7 @@
     {
         "id": "58c82eb3f1854b47a93d74b5",
         "asin": "B01NBU1LP4",
-        "description": "Nintendo - Mando Joycon Set, Color Gris (Nintendo Switch)",
+        "name": "Nintendo - Mando Joycon Set, Color Gris (Nintendo Switch)",
         "url": "https://www.amazon.es/Nintendo-Mando-Joycon-Color-Switch/dp/B01NBU1LP4?SubscriptionId=AKIAJ6KLLKSCXUUP4BCQ&tag=reposterianos-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NBU1LP4",
         "imageName": "https://images-eu.ssl-images-amazon.com/images/I/41XlN4t5dJL.jpg",
         "price": 14990,
@@ -66,7 +66,7 @@
     {
         "id": "58c72d6ff1854b47a93d748d",
         "asin": "B01N5OORGV",
-        "description": "Nintendo - Mando Joycon Set, Color Azul Y Rojo (Nintendo Switch)",
+        "name": "Nintendo - Mando Joycon Set, Color Azul Y Rojo (Nintendo Switch)",
         "url": "https://www.amazon.es/Nintendo-Mando-Joycon-Color-Switch/dp/B01N5OORGV?SubscriptionId=AKIAJ6KLLKSCXUUP4BCQ&tag=reposterianos-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01N5OORGV",
         "imageName": "https://images-eu.ssl-images-amazon.com/images/I/41ebS3gm24L.jpg",
         "price": 8305,
@@ -82,7 +82,7 @@
     {
         "id": "5845e42b5be469cd7f2a2a30",
         "asin": "B0044R87RS",
-        "description": "Arcos Maitre - Cuchillo de cocinero, 215 mm (blister)",
+        "name": "Arcos Maitre - Cuchillo de cocinero, 215 mm (blister)",
         "url": "https://www.amazon.es/dp/B0044R87RS/ref=cm_sw_r_cp_api_8pEryb50VMYRN?tag=reposterianos-21",
         "imageName": "http://ecx.images-amazon.com/images/I/31STrbl-jKL.jpg",
         "price": 927,
@@ -98,7 +98,7 @@
     {
         "id": "58380ef568692b3cbf39547f",
         "asin": "B01LQQH86A",
-        "description": "WD My Passport 4TB - Disco duro portátil y software de copia de seguridad automática para PC, Xbox One y PlayStation 4 - negro",
+        "name": "WD My Passport 4TB - Disco duro portátil y software de copia de seguridad automática para PC, Xbox One y PlayStation 4 - negro",
         "url": "https://www.amazon.es/dp/B01LQQH86A/ref=cm_sw_r_cp_api_.6aoybHBN07WQ?tag=reposterianos-21",
         "imageName": "http://ecx.images-amazon.com/images/I/41FUR9vWdlL.jpg",
         "price": 14900,
@@ -114,7 +114,7 @@
     {
         "id": "5b728dda1db3a800149711a3",
         "asin": "B07B9VTS75",
-        "description": "Moulinex Multidelices YG6601 Yogurtera Eléctrica con 5 Programas y Función Express de 4 Horas, Incluye 6 Vasos con Tapa, Bandeja y Libro de Recetas",
+        "name": "Moulinex Multidelices YG6601 Yogurtera Eléctrica con 5 Programas y Función Express de 4 Horas, Incluye 6 Vasos con Tapa, Bandeja y Libro de Recetas",
         "url": "http://www.amazon.es/gp/product/B07B9VTS75?tag=crecienconoli-21",
         "imageName": " https://images-eu.ssl-images-amazon.com/images/I/41JIqlOAkuL.jpg",
         "price": 12878,
@@ -130,7 +130,7 @@
     {
         "id": "5a9320e6089b9e1518eaa8ce",
         "asin": "B0713WPGLL",
-        "description": "WD Elements - Disco duro externo portátil de 4 TB con USB 3.0, color negro + WD Grip Pack - Funda de disco duro para My Passport Ultra (incluye cable USB 3.0), cielo",
+        "name": "WD Elements - Disco duro externo portátil de 4 TB con USB 3.0, color negro + WD Grip Pack - Funda de disco duro para My Passport Ultra (incluye cable USB 3.0), cielo",
         "url": "https://www.amazon.es/WD-Elements-externo-portátil-Passport/dp/B0713WPGLL?tag=crecienconoli-21",
         "imageName": "https://images-eu.ssl-images-amazon.com/images/I/31yvMb5QhfL.jpg",
         "price": 9999,
@@ -146,7 +146,7 @@
     {
         "id": "5a1ef6a3d388221330b8578e",
         "asin": "B06XP9N2VP",
-        "description": "Bose SoundLink ® Revolve+ - Altavoz portátil con Bluetooth, color negro",
+        "name": "Bose SoundLink ® Revolve+ - Altavoz portátil con Bluetooth, color negro",
         "url": "https://www.amazon.es/Bose-SoundLink-Revolve-portátil-Bluetooth/dp/B06XP9N2VP?tag=crecienconoli-21",
         "imageName": "https://images-eu.ssl-images-amazon.com/images/I/41AFVhQAOYL.jpg",
         "price": 22900,
